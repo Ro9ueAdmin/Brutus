@@ -8,10 +8,6 @@ A brute forcing tool for multiple services and websites
 Pyfiglet:
     
     pip install pyfiglet
-
-Mechanize
-
-    pip instal mechanize
     
 Paramiko
 
