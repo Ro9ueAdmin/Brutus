@@ -1,6 +1,7 @@
 from initialize import initialize
 from help import help
 import os
+from ssh_brute import ssh_brute
 def menu():
 	initialize()
 	while 1:
@@ -18,6 +19,9 @@ def menu():
 
 		elif usr_inp=="clear":
 			os.system("clear")
+		
+		elif usr_inp=="ssh":
+			ssh_brute()
 
 		else:
 			print(usr_inp+": command not recognised ~brutus")
