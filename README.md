@@ -1,8 +1,9 @@
 # Brutus
 A brute forcing tool for multiple services and websites
 
+## Getting Started
 
-## Requirements
+### Requirements
 
 Pyfiglet:
     
@@ -15,7 +16,11 @@ Mechanize
 Paramiko
 
     pip install paramiko
-    
+
+### Using the tool
+
+        python main.py
+        
 ## Screenshots
 
 Startup Page
