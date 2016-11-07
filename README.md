@@ -25,7 +25,7 @@ Startup Page
 
 SSH BruteForce Module
 
-![screen shot 2016-11-07 at 5 45 02 pm](https://cloud.githubusercontent.com/assets/20644368/20057551/29fd3f22-a512-11e6-8f1e-3f04f0ac57cc.png)
+![screen shot 2016-11-07 at 6 33 22 pm](https://cloud.githubusercontent.com/assets/20644368/20058849/3aab62a2-a519-11e6-8a13-af7ee6d6cb16.png)
 
 FTP Bruteforce Module
 
