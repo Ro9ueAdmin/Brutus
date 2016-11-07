@@ -25,8 +25,7 @@ Startup Page
 
 SSH BruteForce Module
 
-![ssh_brute](https://cloud.githubusercontent.com/assets/20644368/20036162/f200cd42-a425-11e6-8762-71b77cf84025.png)
-
+![screen shot 2016-11-07 at 5 45 02 pm](https://cloud.githubusercontent.com/assets/20644368/20057551/29fd3f22-a512-11e6-8f1e-3f04f0ac57cc.png)
 
 
 ## Developer
