@@ -12,6 +12,10 @@ Pyfiglet:
 Paramiko
 
     pip install paramiko
+    
+ftplib
+    
+    <Already present>
 
 ### Using the tool
 
