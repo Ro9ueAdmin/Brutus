@@ -27,6 +27,8 @@ SSH BruteForce Module
 
 ![screen shot 2016-11-07 at 5 45 02 pm](https://cloud.githubusercontent.com/assets/20644368/20057551/29fd3f22-a512-11e6-8f1e-3f04f0ac57cc.png)
 
+FTP Bruteforce Module
+
 
 ## Developer
 
