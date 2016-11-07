@@ -2,6 +2,9 @@ from initialize import initialize
 from help import help
 import os
 from ssh_brute import ssh_brute
+from ftp_brute import ftp_brute
+
+
 def menu():
 	initialize()
 	while 1:
@@ -22,6 +25,9 @@ def menu():
 		
 		elif usr_inp=="ssh":
 			ssh_brute()
+
+		elif usr_inp=="ftp":
+			ftp_brute()
 
 		else:
 			print(usr_inp+": command not recognised ~brutus")
