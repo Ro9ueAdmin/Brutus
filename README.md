@@ -17,6 +17,11 @@ ftplib
     
     <Already present>
 
+Script: To install all the dependencies-
+    
+    chmod +x install-requirements.sh
+    ./install-requirements.sh
+
 ### Using the tool
 
         python main.py
