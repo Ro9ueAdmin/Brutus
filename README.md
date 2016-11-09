@@ -1,4 +1,4 @@
-# Brutus
+# Brutus    [![Build Status](https://travis-ci.org/vduddu/Brutus.svg?branch=master)](https://travis-ci.org/vduddu/Brutus)
 A brute forcing tool for multiple services and websites
 
 ## Getting Started
