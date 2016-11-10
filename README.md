@@ -1,6 +1,11 @@
 # Brutus    [![Build Status](https://travis-ci.org/vduddu/Brutus.svg?branch=master)](https://travis-ci.org/vduddu/Brutus) [![NSP Status](https://nodesecurity.io/orgs/vduddu/projects/5609b3d2-7d33-4fcc-bb5c-4fee36013a1f/badge)](https://nodesecurity.io/orgs/vduddu/projects/5609b3d2-7d33-4fcc-bb5c-4fee36013a1f)
 A brute forcing tool for multiple services and websites
 
+## To Do
+
+-Optimize code and dictionaries
+-Multithreaded
+
 ## Getting Started
 
 ### Requirements
