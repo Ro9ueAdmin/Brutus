@@ -3,7 +3,7 @@ from help import help
 import os
 from ssh_brute import ssh_brute
 from ftp_brute import ftp_brute
-
+from smtp import smtp
 
 def menu():
 	initialize()
@@ -28,6 +28,9 @@ def menu():
 
 		elif usr_inp=="ftp":
 			ftp_brute()
+
+		elif usr_inp=="smtp":
+			smtp()
 
 		else:
 			print(usr_inp+": command not recognised ~brutus")
