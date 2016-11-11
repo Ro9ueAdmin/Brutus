@@ -50,6 +50,10 @@ SMTP: mail.com
 
 ![4c8acd85d8874703b6a9aee92de49249](https://cloud.githubusercontent.com/assets/20644368/20184114/95c9c7a2-a78d-11e6-9102-288b8ebc8409.jpg)
 
+SMTP: gmail.com
+
+![9bd1e4364e564e45a1d8a1651e82d1c6](https://cloud.githubusercontent.com/assets/20644368/20216580/744728f4-a841-11e6-975f-c32e36b67614.jpg)
+
 
 ## Developer
 
