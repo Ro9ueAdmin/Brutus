@@ -4,6 +4,8 @@ A brute forcing tool for multiple services and websites. The tool presently supp
         SSH
         FTP
         SMTP
+            -mail.com
+            -gmail.com
 
 
 ## Getting Started
