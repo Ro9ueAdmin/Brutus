@@ -40,10 +40,3 @@ def facebook_brute():
 		except KeyboardInterrupt:
 			print("\nQuitting..")
 			return
-
-
-facebook_brute()
-
-
-
-	
