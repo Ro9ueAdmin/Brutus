@@ -2,10 +2,16 @@
 A brute forcing tool for multiple services and websites. The tool presently supports the following services:
         
         SSH
+        
         FTP
+        
         SMTP
             -mail.com
             -gmail.com
+            
+        Websites(Slow)
+            -Facebook
+            -Twitter
 
 
 ## Getting Started
