@@ -26,6 +26,10 @@ Paramiko
 
     pip install paramiko
     
+Mechanize
+        
+     pip install mechanize
+    
 ftplib
     
     <Already present>
