@@ -41,10 +41,3 @@ def twitter_brute():
 		except KeyboardInterrupt:
 			print("\nQuitting..")
 			return
-
-
-twitter_brute()
-
-
-
-	
